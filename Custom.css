@@ -8,7 +8,7 @@ background: linear-gradient(to right, #ff6a00, #ee0979); /* W3C, IE 10+/ Edge, F
 h1{
   margin-bottom: 30px;
   text-align: center;
-  margin-top: 10px;
+  margin-top: 50px;
   font-size: 30px;
   color: white;
   
@@ -23,4 +23,9 @@ margin: 20px;
 hr{
   background: white;
   height: 8px !important;
+}
+
+.card img{
+  opacity: 1;
+  background: greenyellow;
 }
